@@ -6,7 +6,7 @@
 
 ### 视图和模板: 描述内容
 
-![视图和模板](pics/ionic-3.2,png)
+![视图和模板](pics/ionic-3.2.png)
 
 ### 控制器、模型和作用域：管理数据和逻辑
 
@@ -307,7 +307,7 @@ git checkout -f step10
 
 ```
 
-![remove](ionic-3.14.png)
+![remove](pics/ionic-3.14.png)
 
 ```html
 <button class="btn btn-danger pull-right" ng-click="remove()" ng-if="content.id">Delete</button>
