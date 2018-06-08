@@ -7,3 +7,5 @@
 - [第三章 Angular的工作原理](chapter3.md)
 - [第四章 内置指令](chapter4.md)
 - [第五章 Angular中的表单](chapter5.md)
+- [第六章 HTTP](chapter6.md)
+- [第七章 路由](chapter7.md)

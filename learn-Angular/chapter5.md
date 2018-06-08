@@ -426,7 +426,7 @@ export class DemoFormWithValidationsExplicitComponent {
 <div *ngIf="!myForm.controls['sku'].valid"
   class="ui error message">SKU is invalid</div>
 <div *ngIf="myForm.controls['sku'].hasError('required')"
-  class="ui error message">SKU is required</div> 
+  class="ui error message">SKU is required</div>
 ```
 
 ### 自定义验证器
